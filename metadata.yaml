@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/574
     wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27537#Sentimental-Education-Volume-IIThe-History-of-a-Young-Man
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2008-12-15'
 gutenberg_type: Text
